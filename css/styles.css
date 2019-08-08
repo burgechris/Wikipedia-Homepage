@@ -4,9 +4,27 @@
   text-align: center;
 }
 
+#doge {
+  float: left;
+  margin: 5px;
+}
+
+#pokemon {
+  float: right;
+  margin: 5px;
+}
+
+#food {
+  float: right;
+  margin: 5px;
+}
 
 .logo {
   float: left;
   width: 100%;
   height: 100%;
+}
+
+#left-col {
+  background-color: #f5fffa;
 }
