@@ -28,3 +28,32 @@
 #left-col {
   background-color: #f5fffa;
 }
+
+.panel-info {
+  background-color: #f5faff;
+}
+
+#spongebob {
+  float: right;
+  margin: 5px;
+}
+
+.heading {
+  height: 120px;
+}
+
+.header-right {
+  float: right;
+}
+
+.header-left {
+  float: left;
+}
+
+.head-table {
+  margin: 10px;
+}
+
+td {
+  padding-right: 40px;
+}
